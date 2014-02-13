@@ -4,7 +4,7 @@
   <default revision="refs/heads/master" remote="github" />
 
   <project name="opscode-cookbooks/jenkins" revision="refs/tags/v1.1.0"/>
-  <project name="opscode-cookbooks/yum" revision="v3.0.2"/>
+  <project name="opscode-cookbooks/yum" revision="refs/tags/v3.0.2"/>
   <project name="opscode-cookbooks/chef-client" revision="refs/tags/v3.2.0"/>
   <project name="opscode-cookbooks/chef-vault" revision="master" />
 </manifest>
