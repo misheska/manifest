@@ -3,8 +3,8 @@
   <remote name="github" fetch="https://github.com/" />
   <default revision="refs/heads/master" remote="github" />
 
-  <project name="opscode-cookbooks/jenkins" />
-  <project name="opscode-cookbooks/yum" />
-  <project name="opscode-cookbooks/chef-client" />
-  <project name="opscode-cookbooks/chef-vault" />
+  <project name="opscode-cookbooks/jenkins" revision="v1.1.0"/>
+  <project name="opscode-cookbooks/yum" revision="v3.0.2"/>
+  <project name="opscode-cookbooks/chef-client" revision="v3.1.0"/>
+  <project name="opscode-cookbooks/chef-vault" revision="master" />
 </manifest>
