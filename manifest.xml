@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="github" fetch="https://github.com/" />
+  <default revision="refs/heads/master" remote="github" />
+
+  <project name="opscode-cookbooks/jenkins" />
+  <project name="opscode-cookbooks/yum" />
+  <project name="opscode-cookbooks/chef-client" />
+  <project name="opscode-cookbooks/chef-vault" />
+</manifest>
